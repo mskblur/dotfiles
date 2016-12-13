@@ -1,0 +1,169 @@
+# この viminfo ファイルは Vim 7.4 によって生成されました.
+# 変更する際には十分注意してください!
+
+# このファイルが書かれた時の 'encoding' の値
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# 最後の 検索パターン:
+~MSle0~/bin
+
+# コマンドライン 項目の履歴 (新しいものから古いものへ):
+:q
+:wq
+
+# 検索文字列 項目の履歴 (新しいものから古いものへ):
+?/bin/bash
+?/bin/bash  DOT_FILES=(.bashrc .bash_profile …)  for file in ${DOT_FILES[@]} do     ln -s $HOME/dotfiles/$file $HOME/$file done#!/bin/bash
+
+# 式 項目の履歴 (新しいものから古いものへ):
+
+# 入力行 項目の履歴 (新しいものから古いものへ):
+
+# 入力行 項目の履歴 (新しいものから古いものへ):
+
+# レジスタ:
+"1	LINE	0
+	T_FILES=(.bashrc .bash_profile …)
+	
+	for file in ${DOT_FILES[@]}
+	do
+	        ln -s $HOME/dotfiles/$file $HOME/$file
+	    don
+	
+"2	LINE	0
+	T_FILES=(.bashrc .bash_profile …)
+	
+	for file in ${DOT_FILES[@]}
+	do
+	        ln -s $HOME/dotfiles/$file $HOME/$file
+	    done 
+	    #!/bin/bash
+	
+	    DOT_FILES=(.bashrc .bash_profile …)
+	
+	    for file in ${DOT_FILES[@]}
+	    do
+	            ln -s $HOME/dotfiles/$file $HOME/$file
+	        doneggVG
+"3	LINE	0
+	ggC
+	
+	for file in ${DOT_FILES[@]}
+	do
+	         -s $HOME/dotfiles/$file $HOME/$file
+	    done
+	
+"4	LINE	0
+	T_FILES=(.bashrc .bash_profile …)
+""-	CHAR	0
+	.bash_profile
+
+# ファイルマーク:
+'0  5  27  ~/dotfiles/setup.sh
+'1  3  44  ~/dotfiles/setup.sh
+'2  8  0  ~/dotfiles/setup.sh
+'3  73  0  ~/.vimrc
+
+# ジャンプリスト (新しいものが先):
+-'  5  27  ~/dotfiles/setup.sh
+-'  1  0  ~/dotfiles/setup.sh
+-'  3  44  ~/dotfiles/setup.sh
+-'  8  0  ~/dotfiles/setup.sh
+-'  7  0  ~/dotfiles/setup.sh
+-'  73  0  ~/.vimrc
+-'  1  0  ~/.vimrc
+-'  73  0  ~/.vimrc
+-'  1  0  ~/.vimrc
+-'  73  0  ~/.vimrc
+-'  1  0  ~/.vimrc
+-'  73  0  ~/.vimrc
+-'  1  0  ~/.vimrc
+-'  73  0  ~/.vimrc
+-'  1  0  ~/.vimrc
+-'  73  0  ~/.vimrc
+-'  1  0  ~/.vimrc
+-'  73  0  ~/.vimrc
+-'  1  0  ~/.vimrc
+-'  73  0  ~/.vimrc
+-'  1  0  ~/.vimrc
+-'  73  0  ~/.vimrc
+-'  1  0  ~/.vimrc
+-'  73  0  ~/.vimrc
+-'  1  0  ~/.vimrc
+-'  73  0  ~/.vimrc
+-'  1  0  ~/.vimrc
+-'  73  0  ~/.vimrc
+-'  1  0  ~/.vimrc
+-'  73  0  ~/.vimrc
+-'  1  0  ~/.vimrc
+-'  73  0  ~/.vimrc
+-'  1  0  ~/.vimrc
+-'  73  0  ~/.vimrc
+-'  1  0  ~/.vimrc
+-'  73  0  ~/.vimrc
+-'  1  0  ~/.vimrc
+-'  73  0  ~/.vimrc
+-'  1  0  ~/.vimrc
+-'  73  0  ~/.vimrc
+-'  1  0  ~/.vimrc
+-'  73  0  ~/.vimrc
+-'  1  0  ~/.vimrc
+-'  73  0  ~/.vimrc
+-'  1  0  ~/.vimrc
+-'  73  0  ~/.vimrc
+-'  1  0  ~/.vimrc
+-'  73  0  ~/.vimrc
+-'  1  0  ~/.vimrc
+-'  73  0  ~/.vimrc
+-'  1  0  ~/.vimrc
+-'  73  0  ~/.vimrc
+-'  1  0  ~/.vimrc
+-'  73  0  ~/.vimrc
+-'  1  0  ~/.vimrc
+-'  73  0  ~/.vimrc
+-'  1  0  ~/.vimrc
+-'  73  0  ~/.vimrc
+-'  1  0  ~/.vimrc
+-'  73  0  ~/.vimrc
+-'  1  0  ~/.vimrc
+-'  73  0  ~/.vimrc
+-'  1  0  ~/.vimrc
+-'  73  0  ~/.vimrc
+-'  1  0  ~/.vimrc
+-'  73  0  ~/.vimrc
+-'  1  0  ~/.vimrc
+-'  73  0  ~/.vimrc
+-'  1  0  ~/.vimrc
+
+# ファイル内マークの履歴 (新しいものから古いもの):
+
+> ~/dotfiles/setup.sh
+	"	5	27
+	^	3	45
+	.	3	45
+	+	1	47
+	+	1	39
+	+	1	19
+	+	1	20
+	+	1	12
+	+	1	35
+	+	1	27
+	+	1	41
+	+	1	31
+	+	1	0
+	+	1	35
+	+	1	27
+	+	1	11
+	+	3	37
+	+	5	27
+	+	5	8
+	+	1	0
+	+	7	0
+	+	8	0
+	+	3	45
+
+> ~/.vimrc
+	"	73	0
